@@ -10,4 +10,4 @@
 ## Structure
 - Task1/ — CNN image classification (CIFAR-10)
 - Task2/ — Sentiment analysis (ML + LSTM)
-- MajorProject/ — Movie Recommender System (Flask + TF-IDF), deployed at https://movie-recommender-4exr.onrender.com
+- MajorProject/ — Movie Recommender System (Flask + TF-IDF), deployed at https://movie-recommender-4exr.onrender.com 
