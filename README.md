@@ -1,4 +1,4 @@
-# InternSafa_INBTO22841_iNeuBytes
+# internsSafa_INBTO22841_iNeuBytes
 
 **Name:** Safa Anjum
 **Registration No.:** INBT022841
